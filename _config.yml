@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: assets/resume.pdf
 
-url: jimmieg.dev #https://sergiokopplin.github.io/indigo
+url: http://jimmieg.dev #https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
